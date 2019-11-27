@@ -1,4 +1,4 @@
 Creating a new branch is quick.
 change one time，one time
 git isfree software
-
+bug is fixed,so good
